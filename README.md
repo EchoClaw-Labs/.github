@@ -1,19 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EchoClaw-Labs/.github/main/assets/echoclaw-logo.png" alt="EchoClaw" width="140" />
-</p>
+
 
 <h1 align="center">EchoClaw Labs</h1>
 
 <p align="center">
   We are integrating the entire crypto world into one place.<br/>
   The future of crypto belongs to agents. We are building the infrastructure they need.
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/@echoclaw/echo"><img src="https://img.shields.io/npm/v/@echoclaw/echo?style=flat-square&color=2563EB&label=npm" alt="npm" /></a>&nbsp;
-  <a href="https://echoclaw.ai"><img src="https://img.shields.io/badge/docs-echoclaw.ai-60A5FA?style=flat-square" alt="Docs" /></a>&nbsp;
-  <a href="https://discord.gg/echoclaw"><img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
-  <a href="https://x.com/EchoClaw"><img src="https://img.shields.io/badge/follow-@EchoClaw-000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 ---
